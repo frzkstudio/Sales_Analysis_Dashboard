@@ -16,7 +16,7 @@ Introduce your Sales Analysis Dashboard by explaining its significance and how i
 
 Provide information on how users can access the Looker Studio Sales Analysis Dashboard. Include any login credentials, permissions, or access instructions.
 
-**Access Link:** [[Sales Analysis Dashboard]](https://lookerstudio.google.com/reporting/8b42f3cf-49fc-43fa-903c-c5e4964d16a7/page/KTvdD)
+**Access Link:** [Sales Analysis Dashboard](https://lookerstudio.google.com/reporting/8b42f3cf-49fc-43fa-903c-c5e4964d16a7/page/KTvdD)
 
 **Credentials:**
 - Username: `YourUsername`
