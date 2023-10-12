@@ -26,7 +26,7 @@ Provide information on how users can access the Looker Studio Sales Analysis Das
 
 ## Dashboard Features
 
-Explain the main features and functionalities of your Looker Studio dashboard. Describe what kind of insights users can gain, such as interactive filters, charts, and report generation capabilities.
+[statistic header](statistics.png)
 
 ## Data Sources
 
