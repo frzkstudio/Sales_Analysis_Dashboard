@@ -18,12 +18,6 @@ Provide information on how users can access the Looker Studio Sales Analysis Das
 
 **Access Link:** [Sales Analysis Dashboard](https://lookerstudio.google.com/reporting/8b42f3cf-49fc-43fa-903c-c5e4964d16a7/page/KTvdD)
 
-**Credentials:**
-- Username: `YourUsername`
-- Password: `YourPassword`
-
-![Dashboard Screenshot](dashboard-screenshot.png)
-
 ## Dashboard Features
 
 ![statistic header](statistics.png)
