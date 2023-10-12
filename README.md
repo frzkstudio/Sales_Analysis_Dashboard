@@ -22,6 +22,17 @@ Provide information on how users can access the Looker Studio Sales Analysis Das
 
 ![statistic header](statistics.png)
 
+header ini menjelaskan tentang
+
+![penjualan berdasarkan barang](sort by item.png)
+
+header ini menjelaskan tentang item pembelian
+
+![penjualan berdasarkan barang](sort by location.png)
+
+header ini menjelaskan tentang item pembelian
+
+
 ## Data Sources
 
 Provide details about the sources of the sales data used in the dashboard. Explain the data collection process, any data preprocessing, and update frequency. Ensure transparency about the data's origin and quality.
