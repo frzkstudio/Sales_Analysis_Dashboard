@@ -7,8 +7,6 @@ This repository contains a Sales Analysis Dashboard created using Looker Studio.
 - [Accessing the Dashboard](#accessing-the-dashboard)
 - [Dashboard Features](#dashboard-features)
 - [Data Sources](#data-sources)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
