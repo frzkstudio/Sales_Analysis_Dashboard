@@ -26,7 +26,7 @@ Provide information on how users can access the Looker Studio Sales Analysis Das
 
 ## Dashboard Features
 
-(statistics.png)
+![statistic header](statistics.png)
 
 ## Data Sources
 
