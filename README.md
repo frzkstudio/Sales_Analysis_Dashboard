@@ -14,7 +14,7 @@ Introduce your Sales Analysis Dashboard by explaining its significance and how i
 
 ## SQL Query for Manage data
 ```sql
-[input.sql](query_input_data.sql)
+[input.sql](query_input_data.sql)```
 
 ## Accessing the Dashboard
 
