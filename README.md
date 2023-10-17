@@ -15,6 +15,7 @@ Introduce your Sales Analysis Dashboard by explaining its significance and how i
 ## SQL Query for Manage data
 <details>
 <summary>query for inputation data</summary>
+    <pre>
 ```sql
 -- import table penjualan from csv --
 CREATE TABLE penjualan (
@@ -80,8 +81,12 @@ SELECT DISTINCT
     b.kemasan
 FROM penjualan AS pj
 JOIN pelanggan AS pl ON pj.id_cabang = pl.id_cabang_sales
-JOIN barang AS b ON pj.id_barang = b.kode_barang; ```
+JOIN barang AS b ON pj.id_barang = b.kode_barang; 
+```
+</pre>
+
 </details>
+
 ## Accessing the Dashboard
 
 Provide information on how users can access the Looker Studio Sales Analysis Dashboard. Include any login credentials, permissions, or access instructions.
