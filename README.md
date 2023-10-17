@@ -15,9 +15,9 @@ Introduce your Sales Analysis Dashboard by explaining its significance and how i
 ## SQL Query for Manage data
 <details>
 <summary>query for inputation data</summary>
-[link for query inputation](https://github.com/frzkstudio/Sales_Analysis_Dashboard/blob/main/query_input_data.sql)
-</details>
 
+[Link untuk query input data](https://github.com/frzkstudio/Sales_Analysis_Dashboard/blob/main/query_input_data.sql)
+</details>
 ## Accessing the Dashboard
 
 Provide information on how users can access the Looker Studio Sales Analysis Dashboard. Include any login credentials, permissions, or access instructions.
