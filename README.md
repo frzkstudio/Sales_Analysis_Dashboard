@@ -4,6 +4,7 @@ This repository contains a Sales Analysis Dashboard created using Looker Studio.
 
 ## Table of Contents
 - [Introduction](#introduction)
+- 
 - [Accessing the Dashboard](#accessing-the-dashboard)
 - [Dashboard Features](#dashboard-features)
 
@@ -32,8 +33,5 @@ header ini menjelaskan tentang item pembelian
 header ini menjelaskan tentang item pembelian
 
 
-## Data Sources
-
-Provide details about the sources of the sales data used in the dashboard. Explain the data collection process, any data preprocessing, and update frequency. Ensure transparency about the data's origin and quality.
 
 ---
