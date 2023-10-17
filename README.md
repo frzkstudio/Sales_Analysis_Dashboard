@@ -80,7 +80,7 @@ SELECT DISTINCT
     b.kemasan
 FROM penjualan AS pj
 JOIN pelanggan AS pl ON pj.id_cabang = pl.id_cabang_sales
-JOIN barang AS b ON pj.id_barang = b.kode_barang;```
+JOIN barang AS b ON pj.id_barang = b.kode_barang; ```
 </details>
 ## Accessing the Dashboard
 
