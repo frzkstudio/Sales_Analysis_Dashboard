@@ -15,7 +15,7 @@ Introduce your Sales Analysis Dashboard by explaining its significance and how i
 ## SQL Query for Manage data
 <details>
 <summary>query for inputation data</summary>
-    <pre>
+<pre>
 ```sql
 -- import table penjualan from csv --
 CREATE TABLE penjualan (
@@ -35,7 +35,6 @@ CREATE TABLE penjualan (
 
 COPY penjualan(id_distributor, id_cabang, id_invoice, tanggal, id_customer, id_barang, jumlah_barang, unit, harga, mata_uang, brand_id, lini)
 FROM 'penjualan.csv' DELIMITER ',' CSV HEADER;
-
 
 -- import table pelanggan from csv --
 CREATE TABLE pelanggan (
@@ -66,7 +65,6 @@ CREATE TABLE barang (
 COPY barang(kode_barang, sektor, nama_barang, tipe, nama_tipe, kode_lini, lini, kemasan)
 FROM 'barang.csv' DELIMITER ',' CSV HEADER;
 
-
 -- membuat datamart analisis penjualan untuk menjadi acuan dashboard looker studio --
 CREATE TABLE analisis_penjualan AS
 SELECT DISTINCT
@@ -81,10 +79,7 @@ SELECT DISTINCT
     b.kemasan
 FROM penjualan AS pj
 JOIN pelanggan AS pl ON pj.id_cabang = pl.id_cabang_sales
-JOIN barang AS b ON pj.id_barang = b.kode_barang; 
-
-sql```
-
+JOIN barang AS b ON pj.id_barang = b.kode_barang;```
 </pre>
 
 </details>
