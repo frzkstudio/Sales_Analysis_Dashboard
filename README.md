@@ -4,13 +4,16 @@ This repository contains a Sales Analysis Dashboard created using Looker Studio.
 
 ## Table of Contents
 - [Introduction](#introduction)
-- 
+- [SQL Querying](#sql-query-for-manage-data)
 - [Accessing the Dashboard](#accessing-the-dashboard)
 - [Dashboard Features](#dashboard-features)
 
 ## Introduction
 
 Introduce your Sales Analysis Dashboard by explaining its significance and how it contributes to your business or organization's decision-making processes. Highlight its role in providing insights and driving sales strategies.
+
+## SQL Query for Manage data
+
 
 ## Accessing the Dashboard
 
