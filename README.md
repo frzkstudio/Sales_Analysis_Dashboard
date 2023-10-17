@@ -15,7 +15,7 @@ Introduce your Sales Analysis Dashboard by explaining its significance and how i
 ## SQL Query for Manage data
 <details>
 <summary>query for inputation data</summary>
-```
+```sql
 -- import table penjualan from csv --
 CREATE TABLE penjualan (
     id_distributor INT,
